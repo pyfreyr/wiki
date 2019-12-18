@@ -10,7 +10,7 @@ Cheat Sheet
 :Description: This is a "docinfo block", or bibliographic field list
 
 .. NOTE:: If you are reading this as HTML, please read
-   `<_files/cheatsheet.txt>`_ instead to see the input syntax examples!
+   :download:`cheatsheet.txt <_files/cheatsheet.txt>` instead to see the input syntax examples!
 
 Section Structure
 =================
