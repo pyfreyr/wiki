@@ -5,12 +5,12 @@ reStructedText
 ==============
 
 .. toctree::
-   :caption: reStructedText
+   :caption: Sphinx
+   :numbered:
    :hidden:
 
    quickstart
    reference
-   cheatsheet
 
 :doc:`quickstart`
     快速入门。
@@ -18,5 +18,7 @@ reStructedText
 :doc:`reference`
     参考手册。
 
-:doc:`cheatsheet`
-    reStructedText cheatsheet.
+
+======
+Sphinx
+======

@@ -108,14 +108,14 @@ RESTful
     理解 RESTful 架构和设计。
 
 
-reStructedText
+Sphinx
 ==============
 
 .. toctree::
-   :caption: reStructedText
+   :caption: Sphinx
    :hidden:
 
-   rst/index
+   sphinx/index
 
-:doc:`rst/index`
+:doc:`sphinx/index`
     reStructedText 参考手册

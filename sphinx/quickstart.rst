@@ -4,9 +4,6 @@
 Quickstart
 ==========
 
-:reference: `A ReStructuredText Primer <https://docutils.sourceforge.io/docs/user/rst/quickstart.txt>`_
-:update: 2019-12-16 11:05:19
-
 
 Inline markup
 =============
